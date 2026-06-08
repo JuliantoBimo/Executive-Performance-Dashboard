@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 Proyek ini mengimplementasikan **Dashboard Analisis Kinerja Operasional dan Segmentasi Pelanggan** yang dirancang untuk memonitor, mengevaluasi, dan mengoptimalkan produktivitas unit servis (bengkel) serta strategi retensi pelanggan. Menggunakan pendekatan berbasis data (*data-driven approach*), dashboard ini memberikan visibilitas penuh terhadap metrik utama seperti *Unit Entry*, pencapaian target kerja (*CPUS*), komposisi jenis pekerjaan, hingga segmentasi perilaku pelanggan (*Effort, Inisiatif, New*).
 
+![Executive Dashboard](Executive%20Dashboard.png)
+
 Melalui visualisasi yang interaktif dan komprehensif, manajemen dapat mengidentifikasi bottleneck operasional, mengukur efektivitas program loyalitas (seperti *TCare*), dan merumuskan strategi pemasaran yang lebih presisi untuk meningkatkan *revenue* bisnis *aftersales*.
 
 ---
